@@ -1,0 +1,16 @@
+{
+    "name": "seferov/payu",
+    "description": "Missing parts of PayU PHP client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Farhad Safarov",
+            "email": "farhad.safarov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Seferov\\PayU\\": "" }
+    }
+}
